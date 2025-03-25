@@ -76,4 +76,4 @@ Where:
 
 ## Disclaimer
 
-This indicator is for educational purposes only. Always do your own research and never trade based solely on indicator signals. 
+This indicator is for educational purposes only and steem crypto academy.
